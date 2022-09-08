@@ -13,133 +13,152 @@
 			"author": "Morgan Housel",
 			"imageLink": "images/.jpg",
 			"title": "The Psychology of Money",
-			"year": 2020
+			"year": 2020,
+			"price": 109
 		},
 		{
 			"id": 3,
 			"author": "Hector Garcia",
 			"imageLink": "images/.jpg",
 			"title": "Ikigai: The Japanese secret to a long and happy life",
-			"year": 2017
+			"year": 2017,
+			"price": 98
 		},
 		{
 			"id": 4,
 			"author": "Jay Shetty",
 			"imageLink": "images/.jpg",
 			"title": "8 Rules of Love",
-			"year": 2022
+			"year": 2022,
+			"price": 125
 		},
 		{
 			"id": 5,
 			"author": "Joseph Murphy",
 			"imageLink": "images/.jpg",
 			"title": "The Power of Your Subconscious Mind",
-			"year": 2020
+			"year": 2020,
+			"price": 80
 		},
 		{
 			"id": 6,
 			"author": "Paulo Coelho",
 			"imageLink": "images/.jpg",
 			"title": "The Alchemist",
-			"year": 2005
+			"year": 2005,
+			"price": 100
 		},
 		{
 			"id": 7,
 			"author": "Mark Manson",
 			"imageLink": "images/.jpg",
 			"title": "The Subtle Art of Not Giving a F*ck",
-			"year": 2017
+			"year": 2017,
+			"price": 97
 		},
 		{
 			"id": 8,
 			"author": "Dale Carnegie",
 			"imageLink": "images/.jpg",
 			"title": "How to Win Friends and Influence People",
-			"year": 2020
+			"year": 2020,
+			"price": 115
 		},
 		{
 			"id": 9,
 			"author": "Amish Tripathi",
 			"imageLink": "images/.jpg",
 			"title": "War of Lanka",
-			"year": 2022
+			"year": 2022,
+			"price": 79
 		},
 		{
 			"id": 10,
 			"author": "Eric Jorgenson",
 			"imageLink": "images/.jpg",
 			"title": "The Almanack Of Naval Ravikant",
-			"year": 2021
+			"year": 2021,
+			"price": 115
 		},
 		{
 			"id": 11,
 			"author": "Sudha Murty",
 			"imageLink": "images/.jpg",
 			"title": "Grandma's Bag of Stories",
-			"year": 2015
+			"year": 2015,
+			"price": 95
 		},
 		{
 			"id": 12,
 			"author": "Jeff Keller",
 			"imageLink": "images/.jpg",
 			"title": "Attitude Is Everything: Change Your Attitude",
-			"year": 2015
+			"year": 2015,
+			"price": 120
 		},
 		{
 			"id": 13,
 			"author": "J Sai Deepak",
 			"imageLink": "images/.jpg",
 			"title": "India that is Bharat",
-			"year": 2021
+			"year": 2021,
+			"price": 60
 		},
 		{
 			"id": 14,
 			"author": "Yuval Noah Harari",
 			"imageLink": "images/.jpg",
 			"title": "Sapiens: A Brief History of Humankind",
-			"year": 2015
+			"year": 2015,
+			"price": 88
 		},
 		{
 			"id": 15,
 			"author": "Leil Lowndes",
 			"imageLink": "images/.jpg",
 			"title": "How to Talk to Anyone",
-			"year": 2014
+			"year": 2014,
+			"price": 91
 		},
 		{
 			"id": 16,
 			"author": "Alex Michaelides",
 			"imageLink": "images/.jpg",
 			"title": "The silent patient",
-			"year": 2019
+			"year": 2019,
+			"price": 75
 		},
 		{
 			"id": 17,
 			"author": "Darius Foroux",
 			"imageLink": "images/.jpg",
 			"title": "Do It Today",
-			"year": 2020
+			"year": 2020,
+			"price": 88
 		},
 		{
 			"id": 18,
 			"author": "Ankur Warikoo",
 			"imageLink": "images/.jpg",
 			"title": "Do epic shit",
-			"year": 2021
+			"year": 2021,
+			"price": 94
 		},
 		{
 			"id": 19,
 			"author": "Viktor E Frankl",
 			"imageLink": "images/.jpg",
 			"title": "Man's Search For Meaning",
-			"year": 2008
+			"year": 2008,
+			"price": 113
 		},
 		{
 			"id": 20,
 			"author": "Colleen Hoover",
 			"imageLink": "images/.jpg",
 			"title": "It Starts With Us",
-			"year": 2022
+			"year": 2022,
+			"price": 111
 		}
 	]
 }
