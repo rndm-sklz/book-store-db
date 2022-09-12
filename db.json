@@ -4,7 +4,7 @@
 			"id": 1,
 			"genre": "Fiction",
 			"author": "James Clear",
-			"imageLink": "images/.jpg",
+			"cover": "images/.jpg",
 			"title": "Atomic Habits",
 			"year": 2018,
 			"price": 83
@@ -13,7 +13,7 @@
 			"id": 2,
 			"genre": "Business",
 			"author": "Morgan Housel",
-			"imageLink": "images/.jpg",
+			"cover": "images/.jpg",
 			"title": "The Psychology of Money",
 			"year": 2020,
 			"price": 109
@@ -22,7 +22,7 @@
 			"id": 3,
 			"genre": "Fiction",
 			"author": "Hector Garcia",
-			"imageLink": "images/.jpg",
+			"cover": "images/.jpg",
 			"title": "Ikigai: The Japanese secret to a long and happy life",
 			"year": 2017,
 			"price": 98
@@ -31,7 +31,7 @@
 			"id": 4,
 			"genre": "Fiction",
 			"author": "Jay Shetty",
-			"imageLink": "images/.jpg",
+			"cover": "images/.jpg",
 			"title": "8 Rules of Love",
 			"year": 2022,
 			"price": 125
@@ -40,7 +40,7 @@
 			"id": 5,
 			"genre": "Non-fiction",
 			"author": "Joseph Murphy",
-			"imageLink": "images/.jpg",
+			"cover": "images/.jpg",
 			"title": "The Power of Your Subconscious Mind",
 			"year": 2020,
 			"price": 80
@@ -49,7 +49,7 @@
 			"id": 6,
 			"genre": "Fiction",
 			"author": "Paulo Coelho",
-			"imageLink": "images/.jpg",
+			"cover": "images/.jpg",
 			"title": "The Alchemist",
 			"year": 2005,
 			"price": 100
@@ -58,7 +58,7 @@
 			"id": 7,
 			"genre": "Fiction",
 			"author": "Mark Manson",
-			"imageLink": "images/.jpg",
+			"cover": "images/.jpg",
 			"title": "The Subtle Art of Not Giving a F*ck",
 			"year": 2017,
 			"price": 97
@@ -67,7 +67,7 @@
 			"id": 8,
 			"genre": "Fiction",
 			"author": "Dale Carnegie",
-			"imageLink": "images/.jpg",
+			"cover": "images/.jpg",
 			"title": "How to Win Friends and Influence People",
 			"year": 2020,
 			"price": 115
@@ -76,7 +76,7 @@
 			"id": 9,
 			"genre": "Non-fiction",
 			"author": "Amish Tripathi",
-			"imageLink": "images/.jpg",
+			"cover": "images/.jpg",
 			"title": "War of Lanka",
 			"year": 2022,
 			"price": 79
@@ -85,7 +85,7 @@
 			"id": 10,
 			"genre": "Non-fiction",
 			"author": "Eric Jorgenson",
-			"imageLink": "images/.jpg",
+			"cover": "images/.jpg",
 			"title": "The Almanack Of Naval Ravikant",
 			"year": 2021,
 			"price": 115
@@ -94,7 +94,7 @@
 			"id": 11,
 			"genre": "Fiction",
 			"author": "Sudha Murty",
-			"imageLink": "images/.jpg",
+			"cover": "images/.jpg",
 			"title": "Grandma's Bag of Stories",
 			"year": 2015,
 			"price": 95
@@ -103,7 +103,7 @@
 			"id": 12,
 			"author": "Jeff Keller",
 			"genre": "Fiction",
-			"imageLink": "images/.jpg",
+			"cover": "images/.jpg",
 			"title": "Attitude Is Everything: Change Your Attitude",
 			"year": 2015,
 			"price": 120
@@ -112,7 +112,7 @@
 			"id": 13,
 			"genre": "Non-fiction",
 			"author": "J Sai Deepak",
-			"imageLink": "images/.jpg",
+			"cover": "images/.jpg",
 			"title": "India that is Bharat",
 			"year": 2021,
 			"price": 60
@@ -121,7 +121,7 @@
 			"id": 14,
 			"genre": "Non-fiction",
 			"author": "Yuval Noah Harari",
-			"imageLink": "images/.jpg",
+			"cover": "images/.jpg",
 			"title": "Sapiens: A Brief History of Humankind",
 			"year": 2015,
 			"price": 88
@@ -130,7 +130,7 @@
 			"id": 15,
 			"genre": "Fiction",
 			"author": "Leil Lowndes",
-			"imageLink": "images/.jpg",
+			"cover": "images/.jpg",
 			"title": "How to Talk to Anyone",
 			"year": 2014,
 			"price": 91
@@ -139,7 +139,7 @@
 			"id": 16,
 			"genre": "Fiction",
 			"author": "Alex Michaelides",
-			"imageLink": "images/.jpg",
+			"cover": "images/.jpg",
 			"title": "The silent patient",
 			"year": 2019,
 			"price": 75
@@ -148,7 +148,7 @@
 			"id": 17,
 			"genre": "Fiction",
 			"author": "Darius Foroux",
-			"imageLink": "images/.jpg",
+			"cover": "images/.jpg",
 			"title": "Do It Today",
 			"year": 2020,
 			"price": 88
@@ -157,7 +157,7 @@
 			"id": 18,
 			"genre": "Fiction",
 			"author": "Ankur Warikoo",
-			"imageLink": "images/.jpg",
+			"cover": "images/.jpg",
 			"title": "Do epic shit",
 			"year": 2021,
 			"price": 94
@@ -166,7 +166,7 @@
 			"id": 19,
 			"genre": "Philosophy",
 			"author": "Viktor E Frankl",
-			"imageLink": "images/.jpg",
+			"cover": "images/.jpg",
 			"title": "Man's Search For Meaning",
 			"year": 2008,
 			"price": 113
@@ -175,7 +175,7 @@
 			"id": 20,
 			"genre": "Psychology",
 			"author": "Colleen Hoover",
-			"imageLink": "images/.jpg",
+			"cover": "images/.jpg",
 			"title": "It Starts With Us",
 			"year": 2022,
 			"price": 111
