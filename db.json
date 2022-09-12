@@ -4,7 +4,7 @@
 			"id": 1,
 			"genre": "Fiction",
 			"author": "James Clear",
-			"cover": "../public/img/covers/Atomic Habits.jpeg",
+			"cover": "/../public/img/covers/Atomic Habits.jpeg",
 			"title": "Atomic Habits",
 			"year": 2018,
 			"price": 83
