@@ -7,7 +7,8 @@
 			"cover": "/img/covers/1 Atomic Habits.jpeg",
 			"title": "Atomic Habits",
 			"year": 2018,
-			"price": 83
+			"price": 83,
+			"pcs": 0
 		},
 		{
 			"id": 2,
@@ -16,7 +17,8 @@
 			"cover": "/img/covers/2 The Psychology of Money.jpeg",
 			"title": "The Psychology of Money",
 			"year": 2020,
-			"price": 109
+			"price": 109,
+			"pcs": 0
 		},
 		{
 			"id": 3,
@@ -25,7 +27,8 @@
 			"cover": "/img/covers/3 Ikigai- The Japanese secret to a long and happy life.jpeg",
 			"title": "Ikigai: The Japanese secret to a long and happy life",
 			"year": 2017,
-			"price": 98
+			"price": 98,
+			"pcs": 0
 		},
 		{
 			"id": 4,
@@ -34,7 +37,8 @@
 			"cover": "/img/covers/4 8 Rules of Love.jpeg",
 			"title": "8 Rules of Love",
 			"year": 2022,
-			"price": 125
+			"price": 125,
+			"pcs": 0
 		},
 		{
 			"id": 5,
@@ -43,7 +47,8 @@
 			"cover": "/img/covers/5 The Power of Your Subconscious Mind.jpeg",
 			"title": "The Power of Your Subconscious Mind",
 			"year": 2020,
-			"price": 80
+			"price": 80,
+			"pcs": 0
 		},
 		{
 			"id": 6,
@@ -52,7 +57,8 @@
 			"cover": "/img/covers/6 The Alchemist.jpeg",
 			"title": "The Alchemist",
 			"year": 2005,
-			"price": 100
+			"price": 100,
+			"pcs": 0
 		},
 		{
 			"id": 7,
@@ -61,7 +67,8 @@
 			"cover": "/img/covers/7 The Subtle Art of Not Giving a F*ck.jpeg",
 			"title": "The Subtle Art of Not Giving a F*ck",
 			"year": 2017,
-			"price": 97
+			"price": 97,
+			"pcs": 0
 		},
 		{
 			"id": 8,
@@ -70,7 +77,8 @@
 			"cover": "/img/covers/8 How to Win Friends and Influence People.jpeg",
 			"title": "How to Win Friends and Influence People",
 			"year": 2020,
-			"price": 115
+			"price": 115,
+			"pcs": 0
 		},
 		{
 			"id": 9,
@@ -79,7 +87,8 @@
 			"cover": "/img/covers/9 War of Lanka.jpeg",
 			"title": "War of Lanka",
 			"year": 2022,
-			"price": 79
+			"price": 79,
+			"pcs": 0
 		},
 		{
 			"id": 10,
@@ -88,7 +97,8 @@
 			"cover": "/img/covers/10 The Almanack Of Naval Ravikant.jpeg",
 			"title": "The Almanack Of Naval Ravikant",
 			"year": 2021,
-			"price": 115
+			"price": 115,
+			"pcs": 0
 		},
 		{
 			"id": 11,
@@ -97,7 +107,8 @@
 			"cover": "/img/covers/11 Grandma's Bag of Stories.jpeg",
 			"title": "Grandma's Bag of Stories",
 			"year": 2015,
-			"price": 95
+			"price": 95,
+			"pcs": 0
 		},
 		{
 			"id": 12,
@@ -106,7 +117,8 @@
 			"cover": "/img/covers/12 Attitude Is Everything- Change Your Attitude.jpeg",
 			"title": "Attitude Is Everything: Change Your Attitude",
 			"year": 2015,
-			"price": 120
+			"price": 120,
+			"pcs": 0
 		},
 		{
 			"id": 13,
@@ -115,7 +127,8 @@
 			"cover": "/img/covers/13 India that is Bharat.jpeg",
 			"title": "India that is Bharat",
 			"year": 2021,
-			"price": 60
+			"price": 60,
+			"pcs": 0
 		},
 		{
 			"id": 14,
@@ -124,7 +137,8 @@
 			"cover": "/img/covers/14 Sapiens- A Brief History of Humankind.jpeg",
 			"title": "Sapiens: A Brief History of Humankind",
 			"year": 2015,
-			"price": 88
+			"price": 88,
+			"pcs": 0
 		},
 		{
 			"id": 15,
@@ -133,7 +147,8 @@
 			"cover": "/img/covers/15 How to Talk to Anyone.jpeg",
 			"title": "How to Talk to Anyone",
 			"year": 2014,
-			"price": 91
+			"price": 91,
+			"pcs": 0
 		},
 		{
 			"id": 16,
@@ -142,7 +157,8 @@
 			"cover": "/img/covers/16 The silient patient.jpeg",
 			"title": "The silent patient",
 			"year": 2019,
-			"price": 75
+			"price": 75,
+			"pcs": 0
 		},
 		{
 			"id": 17,
@@ -151,7 +167,8 @@
 			"cover": "/img/covers/17 Do It Today.jpeg",
 			"title": "Do It Today",
 			"year": 2020,
-			"price": 88
+			"price": 88,
+			"pcs": 0
 		},
 		{
 			"id": 18,
@@ -160,7 +177,8 @@
 			"cover": "/img/covers/18 Do epic shit.jpeg",
 			"title": "Do epic shit",
 			"year": 2021,
-			"price": 94
+			"price": 94,
+			"pcs": 0
 		},
 		{
 			"id": 19,
@@ -169,7 +187,8 @@
 			"cover": "/img/covers/19 Man's Search For Meaning.jpeg",
 			"title": "Man's Search For Meaning",
 			"year": 2008,
-			"price": 113
+			"price": 113,
+			"pcs": 0
 		},
 		{
 			"id": 20,
@@ -178,7 +197,8 @@
 			"cover": "/img/covers/20 It Starts With Us.jpeg",
 			"title": "It Starts With Us",
 			"year": 2022,
-			"price": 111
+			"price": 111,
+			"pcs": 0
 		}
 	]
 }
